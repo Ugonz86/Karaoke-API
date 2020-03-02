@@ -51,6 +51,8 @@
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "no-unused-vars": "warn",
+        "no-case-declarations": "warn"
     }
 }
